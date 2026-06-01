@@ -1,2 +1,0 @@
-﻿# Text-copy-right-protection-using-transformer
-
